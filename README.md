@@ -1,2 +1,2 @@
 # hello-world
-Just Learning
+Just Learning and testing out this thing called GitHub.
